@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDnevnik", "EDnevnik.csproj", "{878EC0DF-EB9F-45FA-8BE9-A174969DA832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878EC0DF-EB9F-45FA-8BE9-A174969DA832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878EC0DF-EB9F-45FA-8BE9-A174969DA832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878EC0DF-EB9F-45FA-8BE9-A174969DA832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878EC0DF-EB9F-45FA-8BE9-A174969DA832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEF0A4ED-3D97-43CE-9DC4-90142301D84D}
+	EndGlobalSection
+EndGlobal
