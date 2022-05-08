@@ -51,7 +51,7 @@ namespace EDnevnik
 
                             this.Hide();
 
-                            Glavna frm_Glavna = new Glavna();
+                            Glavna2 frm_Glavna = new Glavna2();
                             frm_Glavna.Show();
                         }
                         else
